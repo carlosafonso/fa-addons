@@ -1,0 +1,22 @@
+/**
+ * fa-addons.css
+ *
+ * Custom additions and tweaks over the base
+ * FontAwesome icon set.
+ *
+ * @author Carlos Afonso
+ */
+
+/*
+ * new classes
+ */
+.fa-single {
+	margin-right: 0;
+}
+
+/*
+ * exsiting classes
+ */
+.fa-fw {
+	margin-right: .5em;
+}
