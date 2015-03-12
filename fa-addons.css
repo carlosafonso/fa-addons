@@ -8,15 +8,15 @@
  */
 
 /*
- * new classes
- */
-.fa-single {
-	margin-right: 0;
-}
-
-/*
  * exsiting classes
  */
 .fa-fw {
 	margin-right: .5em;
+}
+
+/*
+ * new classes
+ */
+.fa-fw.fa-single {
+	margin-right: 0;
 }
