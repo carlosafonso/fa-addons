@@ -1,0 +1,9 @@
+{
+	"name": "ca-fa-addons",
+	"description": "Custom extensions and tweaks for FontAwesome",
+	"homepage": "https://github.com/carlosafonso/fa-addons",
+	"version": "0.1.0",
+	"main": [
+		"./fa-addons.min.css"
+	]
+}
