@@ -11,12 +11,12 @@
  * exsiting classes
  */
 .fa-fw {
-	margin-right: .5em;
+	margin-right: .5em !important;
 }
 
 /*
  * new classes
  */
 .fa-fw.fa-single {
-	margin-right: 0;
+	margin-right: 0 !important;
 }
